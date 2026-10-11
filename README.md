@@ -49,7 +49,7 @@ START -> assistant <-> tools -> final answer
 
 ```bash
 pip install -r requirements.txt
-export GEMINI_API_KEY=your_free_key   # from Google AI Studio
+export GEMINI_API_KEY=your_free_key  
 export HF_TOKEN=your_token            # optional, for GAIA dataset attachments
 python app.py
 ```
