@@ -1,8 +1,8 @@
- GAIA Agent: LangGraph + Gemini
+# GAIA Agent: LangGraph + Gemini
 
 An AI agent that answers questions from the GAIA benchmark by searching the web, reading Wikipedia, watching YouTube transcripts, opening spreadsheets and running Python. Built for the Hugging Face Agents Course (Unit 4).
 
-**Result: 70% (14/20 correct)**, above the 30% required to pass.**
+**Result: 70% (14/20 correct)**, above the 30% required to pass.
 
 Live Space: https://huggingface.co/spaces/jesuslayer/gaia-agent-eva
 
