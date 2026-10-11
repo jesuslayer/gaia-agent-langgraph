@@ -1,0 +1,14 @@
+smolagents[toolkit,openai]
+gradio[oauth]
+huggingface_hub
+requests
+pandas
+openpyxl
+youtube-transcript-api
+python-dotenv
+openai-whisper
+
+# LangGraph agent
+langgraph>=1.0
+langchain-core
+langchain-google-genai>=3.1.0
